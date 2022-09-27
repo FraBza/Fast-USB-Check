@@ -1,5 +1,5 @@
 # Fast-USB-Check
-A simple script using ClamAV and Malware Detect to do a fast Scan of any USB devices with some graphical interface
+A simple script using BASH and 2 Popular AV - ClamAV and Malware Detect to do a fast Scan of any USB devices with some graphical interface
 
 **_FR :_** 
 Le script `Verifcle.sh `est un outil utilisé dans mon cas sur une machine Ubuntu graphique (la honte), mais aussi utilisable sur une Debian Graphique par exemple.
