@@ -45,7 +45,7 @@ Ce script à pour but de rendre plus léger l'usage des clé USB dans les entrep
 
 **_EN :_** 
 
-The script `Verifcle.sh ` is a tool used in my case on a Ubuntu with an Graphical interface (what a shame), but still it will work easelly on Debian.
+The script `Verifcle.sh ` is a tool used in my case on a Ubuntu with an Graphical interface (what a shame), but still it will work easily on Debian.
 In order to create our **"Sheep Dip"**. Of course the machine must be disconnected from the network after installing all the tools to start using it.
 
 Graphical interface is used in the idea of creating something more user-friendly
