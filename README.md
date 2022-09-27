@@ -1,6 +1,7 @@
 # Fast-USB-Check
 A simple script using BASH and 2 Popular AV - ClamAV and Malware Detect to do a fast Scan of any USB devices with some graphical interface
 #######################################################
+
 **_FR :_** 
 
 
