@@ -12,11 +12,16 @@ L'interface Graphique est utilisé dans l'idée de crée quelque chose de plus U
 > - Malware Detect (Maldet)
 > - Zenity
 
- :$ sudo apt install **clamav** -----> https://doc.ubuntu-fr.org/clamav (pour ce documenter au niveau des mise à jour des ressources)
- :$ sudo wget **http://www.rfxn.com/downloads/maldetect-current.tar.gz** --- > [https://github.com/andrewelkins/Linux-Malware-Detect/blob/master/files/maldet](url)
- :$ tar xfz maldetect-current.tar.gz
+:$ sudo apt install **clamav** -----> https://doc.ubuntu-fr.org/clamav (pour ce documenter au niveau des mise à jour des ressources)
+
+:$ sudo wget **http://www.rfxn.com/downloads/maldetect-current.tar.gz** --- > [https://github.com/andrewelkins/Linux-Malware-Detect/blob/master/files/maldet](url)
+
+:$ tar xfz maldetect-current.tar.gz
+
 :$ cd maldetect-1.X.X
+
 :$ ./install.sh
+
 :$ apt install ---- >zenity https://doc.ubuntu-fr.org/zenity
 
 
@@ -50,11 +55,16 @@ Graphical interface is used in the idea of creating something more user-friendly
 > - Malware Detect (Maldet)
 > - Zenity
 
- :$ sudo apt install **clamav** -----> https://doc.ubuntu-fr.org/clamav (some doc about how to update ClamAV ressources)
- :$ sudo wget **http://www.rfxn.com/downloads/maldetect-current.tar.gz** --- > [https://github.com/andrewelkins/Linux-Malware-Detect/blob/master/files/maldet](url)
- :$ tar xfz maldetect-current.tar.gz
+:$ sudo apt install **clamav** -----> https://doc.ubuntu-fr.org/clamav (some doc about how to update ClamAV ressources)
+
+:$ sudo wget **http://www.rfxn.com/downloads/maldetect-current.tar.gz** --- > [https://github.com/andrewelkins/Linux-Malware-Detect/blob/master/files/maldet](url)
+
+:$ tar xfz maldetect-current.tar.gz
+
 :$ cd maldetect-1.X.X
+
 :$ ./install.sh
+
 :$ apt install ---- >zenity https://doc.ubuntu-fr.org/zenity
 
 
